@@ -48,4 +48,4 @@ The goal of this project is to engineer a highly intuitive, mobile-first appoint
 * **Layout Mechanics:** Built entirely on **Figma Auto Layout**, utilizing responsive constraints, fixed-dimensional padding frameworks, and precise corner radii (`16px` cards, `27px`/`30px` pill capsules) .
   ## 🎨 Live Design System & File
 You can inspect the interactive design system, responsive Auto Layout constraints, and full resolution canvas workflow here:
-👉 [View the Interactive Figma Prototype & Workspace]https://www.figma.com/design/uGJdXH2qtXdonmNYpKtQVo/Task2-Mobile-ui?node-id=0-1&t=YmRMbgdMFt7QlyNB-1
+👉 [View the Interactive Figma Prototype & Workspace] https://www.figma.com/proto/uGJdXH2qtXdonmNYpKtQVo/Task2-Mobile-ui?node-id=1-2&p=f&viewport=-641%2C-75%2C1&t=emfjo6f2j5WcBVYF-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2&page-id=0%3A1
